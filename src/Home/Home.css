@@ -1,0 +1,7 @@
+.banner{
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/react-cdf16.appspot.com/o/banner.png?alt=media&token=b10ee235-ddc2-47a7-9c6d-7f5dfdf4b824);
+    background-size: cover;
+    background-position: top center;
+    background-attachment: fixed;
+    padding: 25%;
+}
